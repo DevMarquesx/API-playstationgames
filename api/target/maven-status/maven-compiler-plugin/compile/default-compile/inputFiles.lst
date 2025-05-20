@@ -1,5 +1,8 @@
-D:\Kaua\Downloads\api\src\main\java\com\archive\api\ApiApplication.java
-D:\Kaua\Downloads\api\src\main\java\com\archive\api\controllers\JogosController.java
-D:\Kaua\Downloads\api\src\main\java\com\archive\api\entities\Jogos.java
-D:\Kaua\Downloads\api\src\main\java\com\archive\api\repositoryes\JogosRepository.java
-D:\Kaua\Downloads\api\src\main\java\com\archive\api\services\JogosService.java
+C:\Users\SESI\Documents\API-playstationgames\api\src\main\java\com\archive\api\config\MongoConfig.java
+C:\Users\SESI\Documents\API-playstationgames\api\src\main\java\com\archive\api\controllers\JogosController.java
+C:\Users\SESI\Documents\API-playstationgames\api\src\main\java\com\archive\api\config\CorsConfig.java
+C:\Users\SESI\Documents\API-playstationgames\api\src\main\java\com\archive\api\entities\Jogos.java
+C:\Users\SESI\Documents\API-playstationgames\api\src\main\java\com\archive\api\ApiApplication.java
+C:\Users\SESI\Documents\API-playstationgames\api\src\main\java\com\archive\api\services\JogosService.java
+C:\Users\SESI\Documents\API-playstationgames\api\src\main\java\com\archive\api\config\OpenAPIConfig.java
+C:\Users\SESI\Documents\API-playstationgames\api\src\main\java\com\archive\api\repositoryes\JogosRepository.java
